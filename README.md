@@ -8,4 +8,4 @@ The CSS code for the calendar is also very simple. It sets the styles for the di
 
 The JavaScript code for the calendar is responsible for updating the month, day, and year when the user clicks on the next or previous month buttons.
 
-hosted link:
+hosted link:https://suk-18.github.io/Minicalender.github.io/
